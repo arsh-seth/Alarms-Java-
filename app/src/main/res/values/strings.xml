@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">22AlarmsInJava</string>
+    <string name="hello_from_second_activity">Hello from Second Activity</string>
+</resources>
